@@ -1,0 +1,38 @@
+.sky{
+    margin-top: 20px;
+    width: 100%;
+    height: 25%;
+    background-color: lightgrey;
+    position: fixed;
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
+}
+
+
+.mb-3 {
+    margin-top: 90px;
+    display: flex;
+  }
+  
+  .searchInput {
+    background-color: white;
+    border: 0;
+    border-color: grey;
+    border-radius: 2px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    font-size: 18px;
+    padding: 20px;
+    height: 30px;
+    width: 95%;
+  }
+
+  .drop{
+margin-top: 1em;
+  }
+
+  .headerContainer{
+      padding-left: 20px;
+  }
+  
